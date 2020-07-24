@@ -1,9 +1,7 @@
-INSTRUCTIONS:
-  The use of our search engine is straightforward. There are two main parts--the
-  indexer and querier--although most users will probably only interact with the
-  querier.
+# INSTRUCTIONS
+The use of our search engine is straightforward. There are two main parts--the indexer and querier--although most users will probably only interact with the querier.
 
-  INDEXER: First make sure you have three plain text files: titles.txt,
+- **Indexer:** First make sure you have three plain text files: titles.txt,
     words.txt, and docs.txt. You should also have a corpus stored in an XML file.
     To use the indexer, run the "main" method in the Indexing object within the
     Indexer file. The arguments to main, all in absolute filepath form, should be
