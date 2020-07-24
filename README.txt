@@ -1,36 +1,3 @@
-Data Voids
-
-1.  a) Looking at Strategic New Terms, to address this vulnerability, our search engine will detect niches in the corpus
-    based on terms that only exist in that niche, and based on high numbers of inter-linkages (presumably, a very specific
-    scientific term might only exist in a niche, but that niche would be linked to by things outside that niche). In this
-    case, our engine will detect a data void, and devalue the rank of the pages in that niche.
-
-    b) Breaking news: Mainstream journalism contributes to a culture of "breaking news" by modeling marketing strategies
-    around click-bait headlines and sensationalism. While the public reinforces this cycle, mainstream media outlets
-    have a responsibility to direct news culture toward more slow-paced, fact-based information.
-
-2.  a) Our search engine only returns the top 10 results: this means that a user cannot distinguish between a highly
-    relevant query with far more than 10 results and a irrelevant query with exactly 10. Therefore, a user could fall
-    into a data void and not deem it any less relevant than another search. This could lead to seeing problematic
-    content as legitimate.
-
-    b) Ideally, our search engine will be able to detect the "essence" of a query--e.g., "chartreuse paint" and "red
-    paint" are essentially the same query. Given a data void, detected through a method similar to our answer in 1 (a),
-    the search engine would either forcefully or suggestively redirect the user to the more relevant version of their
-    query.
-
-3.  a) The organization could create many meaningless pages that link to their page. Or, from a more practical
-    standpoint, the organization could ensure that any mentions they get elsewhere in the corpus include a link
-    ("shameless plugging").
-
-    b) PageRank will rank the inaccurate news article very highly, which will make any queries the researcher makes more
-    likely to show that article. In addition, other articles shown on the query will be more likely to have drawn
-    information from that original problematic article, creating a self-perpetuating cycle of misinformation.
-
-A MESSAGE FROM THE CREATORS: B01499174 and B01449658 would like to wish their
-  users happy searching and hope that they find this engine a unique and
-  enjoyable experience.
-
 INSTRUCTIONS:
   The use of our search engine is straightforward. There are two main parts--the
   indexer and querier--although most users will probably only interact with the
